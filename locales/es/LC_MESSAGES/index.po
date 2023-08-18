@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, GloomyShaw
+# This file is distributed under the same license as the Test1 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test1 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-18 16:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/index.rst:9
+msgid "Contents:"
+msgstr "Contenido"
+
+#: ../../source/index.rst:7 ee36c70a169142bd9f4ceaef1ad6a977
+msgid "我写了一首诗"
+msgstr "Escribí un poema"
+
+#: ../../source/index.rst:15 ../../source/index.rst:19
+#: ../../source/index.rst:23 ../../source/index.rst:27
+#: ../../source/index.rst:31 0d49a6fcfea44fa7be574a7f7b4c2f84
+#: 747ac1098ca1442792eb8d59527a60b6 98452c2db3364e9e8ea0ee6cbb521bda
+#: a1236560c3c44e4e93da4f4729aa5a62 c433c45e2e2349009fd8d39c648e2d19
+msgid "test"
+msgstr "Prueba"
+
+#: ../../source/index.rst:17 43f2738277104827ba06da0b2557a507
+msgid "trouble go away 麻烦全走开"
+msgstr "Los problemas desaparecen"
+
+#: ../../source/index.rst:21 f0d727aced4e478eae3b7d8a59d92ff0
+msgid "love always stay 爱情永远在"
+msgstr "El amor se queda para siempre"
+
+#: ../../source/index.rst:25 c3948f9b88d346c6bab19f1e87285d20
+msgid "happiness on the way 幸福总会来"
+msgstr "Felicidad en el camino"
+
+#: ../../source/index.rst:29 48c9b00af4af43009cc07f559228c97b
+msgid "hey hey 嗨嗨"
+msgstr "Hola hola"
+
+#: ../../source/index.rst:34 c1d63692341a4e5194190e195aefd1cb
+msgid "索引"
+msgstr "Índice"
+
+#: ../../source/index.rst:36 d9c382b66b194d96ae9819d4880c9301
+msgid ":ref:`genindex`"
+msgstr "Índice genético"
+
+#: ../../source/index.rst:37 c64e8ebacbd24d268259687b8271a4d7
+msgid ":ref:`modindex`"
+msgstr "Módem"
+
+#: ../../source/index.rst:38 fb99dbc4518446e0bf71bab0ad968afe
+msgid ":ref:`search`"
+msgstr "Búsqueda"
+

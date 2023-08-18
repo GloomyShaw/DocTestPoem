@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, GloomyShaw
+# This file is distributed under the same license as the Test1 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test1 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-18 16:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/poem.rst:2 21618aa6661840ad90f499f19adf0353
+msgid "诗"
+msgstr "詩"
+
+#: ../../source/poem.rst:4 571d0f9760584ed9b8006ca149cdd198
+msgid "trouble go away"
+msgstr "面倒が消える"
+
+#: ../../source/poem.rst:6 05d598c744af4d61b600abc520759a74
+msgid "**麻烦全走开**"
+msgstr "面倒が消える"
+
+#: ../../source/poem.rst:8 8770aeeb929b45fbb8fbf8391282fd6b
+msgid "love always stay"
+msgstr "愛は永遠にとどまる"
+
+#: ../../source/poem.rst:10 06af5cbaee80430ba3661f05b123e6c0
+msgid "**爱情永远在**"
+msgstr "愛は永遠にとどまる"
+
+#: ../../source/poem.rst:12 4467fe01f23a403e9b5016b139db38bb
+msgid "happiness on the way"
+msgstr "幸せは道中にある"
+
+#: ../../source/poem.rst:14 61b155497e3145599a97fbab1cabe54e
+msgid "**幸福总会来**"
+msgstr "幸せは道中にある"
+
+#: ../../source/poem.rst:16 34795342fe76483494ceb83898042334
+msgid "hey hey"
+msgstr "ハイハイ"
+
+#: ../../source/poem.rst:18 0436cb0042fa42e784377dd6b8f214e1
+msgid "**嗨嗨**"
+msgstr "ハイハイ"
+
